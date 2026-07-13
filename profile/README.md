@@ -1,6 +1,6 @@
 # saltycodestudio ~<
 
-A coastal web and product studio on Bonaire, Dutch Caribbean.
+**Salty Code Studio** · a coastal web and product studio on Bonaire, Dutch Caribbean.
 Fast, custom-coded websites, software and content. No template underneath.
 
 **What we build:** websites for local businesses, custom software and AI (dashboards, booking systems, automation), and social content that looks like your brand.
